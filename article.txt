@@ -1,6 +1,4 @@
-Hi,
-My group includes:
-1. Nguyen Thuy Trang
-2. Nguyen Thu Trang
-3. Nguyen Thi Ngoc Anh
-4. ALang Thi Thom
+hello 
+my name is Thom
+I'm a student at PNV
+I like watch movies
